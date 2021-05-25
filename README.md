@@ -7,3 +7,6 @@ Applied ANN to solve an Bank problem related whether the customer is going to le
 ## CNN (Convolutional Neural Network)
 
 Dog or Cat prediction , created a model which help to identify whether the give animal is cat or dog .
+
+## Activation Function
+The activation function file contains some activation function implemented in python with formulla's.
